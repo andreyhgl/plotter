@@ -19,7 +19,7 @@ knitr::opts_chunk$set(
   [![R-CMD-check](https://github.com/andreyhgl/plotter/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/andreyhgl/plotter/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-The goal of plotter is to ...
+This repo contains plots for transcriptome and methylome analysis.
 
 ## Installation
 
