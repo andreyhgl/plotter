@@ -24,7 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          install.packages(c("rmarkdown", "knitr", "ggplot2"))
+          install.packages(c("rmarkdown", "knitr"))
         shell: Rscript {0}
 
       - name: Render README
